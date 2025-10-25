@@ -1,0 +1,9 @@
+4 main types of databases
+
+1.Relational/SQL databases 
+2.NoSQL/Document databases
+3.Graph databases
+4.Key Value databases
+
+
+5.Blob storage
